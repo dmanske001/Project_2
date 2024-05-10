@@ -37,7 +37,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>24</pointsize>
+      <pointsize>16</pointsize>
      </font>
     </property>
     <property name="layoutDirection">
@@ -389,13 +389,13 @@
     <property name="geometry">
      <rect>
       <x>320</x>
-      <y>240</y>
-      <width>75</width>
+      <y>250</y>
+      <width>101</width>
       <height>23</height>
      </rect>
     </property>
     <property name="text">
-     <string>Calculate</string>
+     <string>Calculate Area</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_area">
@@ -438,9 +438,9 @@
     <property name="geometry">
      <rect>
       <x>310</x>
-      <y>280</y>
+      <y>290</y>
       <width>161</width>
-      <height>151</height>
+      <height>111</height>
      </rect>
     </property>
     <property name="font">
